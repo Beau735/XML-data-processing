@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees>
+  <title>Employees</title>
+  <employee gender="female">
+    <id>1</id>
+    <firstname>Mary</firstname>
+    <lastname>Mulligan</lastname>
+    <age>12.01.1990</age>
+    <entry>01.01.2023</entry>
+    <department>Information Technology</department>
+    <phone>247</phone>
+  </employee>
+  <employee gender="male">
+    <id>2</id>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <age>24.08.1995</age>
+    <entry>01.07.2022</entry>
+    <department>Human Resources</department>
+    <phone>382</phone>
+  </employee>
+  <employee gender="female">
+    <id>3</id>
+    <firstname>Jane</firstname>
+    <lastname>Smith</lastname>
+    <age>03.05.2001</age>
+    <entry>01.08.2020</entry>
+    <department>Controlling</department>
+    <phone>735</phone>
+  </employee>
+  <employee gender="male">
+    <id>4</id>
+    <firstname>Michael</firstname>
+    <lastname>Jackson</lastname>
+    <age>29.08.1989</age>
+    <entry>15.03.2018</entry>
+    <department>Marketing</department>
+    <phone>592</phone>
+  </employee>
+  <employee gender="female">
+    <id>5</id>
+    <firstname>Lisa</firstname>
+    <lastname>Johnson</lastname>
+    <age>17.06.1992</age>
+    <entry>02.09.2019</entry>
+    <department>Finance</department>
+    <phone>861</phone>
+  </employee>
+  <employee gender="male">
+    <id>6</id>
+    <firstname>David</firstname>
+    <lastname>Miller</lastname>
+    <age>05.04.1987</age>
+    <entry>10.11.2017</entry>
+    <department>Operations</department>
+    <phone>173</phone>
+  </employee>
+  <employee gender="female">
+    <id>7</id>
+    <firstname>Sarah</firstname>
+    <lastname>Clark</lastname>
+    <age>12.09.1983</age>
+    <entry>01.05.2016</entry>
+    <department>Customer Service</department>
+    <phone>409</phone>
+  </employee>
+  <employee gender="male">
+    <id>8</id>
+    <firstname>James</firstname>
+    <lastname>Anderson</lastname>
+    <age>20.11.1990</age>
+    <entry>03.12.2020</entry>
+    <department>Research</department>
+    <phone>658</phone>
+  </employee>
+  <employee gender="female">
+    <id>9</id>
+    <firstname>Emily</firstname>
+    <lastname>Thompson</lastname>
+    <age>14.07.1986</age>
+    <entry>20.02.2015</entry>
+    <department>Quality Assurance</department>
+    <phone>940</phone>
+  </employee>
+  <employee gender="male">
+    <id>10</id>
+    <firstname>Robert</firstname>
+    <lastname>White</lastname>
+    <age>03.03.1985</age>
+    <entry>08.10.2014</entry>
+    <department>Legal</department>
+    <phone>276</phone>
+  </employee>
+  <employee gender="female">
+    <id>11</id>
+    <firstname>Mary</firstname>
+    <lastname>Young</lastname>
+    <age>09.01.1993</age>
+    <entry>05.06.2019</entry>
+    <department>Sales</department>
+    <phone>521</phone>
+  </employee>
+  <employee gender="male">
+    <id>12</id>
+    <firstname>William</firstname>
+    <lastname>Harris</lastname>
+    <age>18.12.1980</age>
+    <entry>17.09.2013</entry>
+    <department>Production</department>
+    <phone>798</phone>
+  </employee>
+  <employee gender="female">
+    <id>13</id>
+    <firstname>Emma</firstname>
+    <lastname>Evans</lastname>
+    <age>25.08.1984</age>
+    <entry>11.11.2012</entry>
+    <department>Administration</department>
+    <phone>123</phone>
+  </employee>
+  <employee gender="male">
+    <id>14</id>
+    <firstname>Joseph</firstname>
+    <lastname>Robinson</lastname>
+    <age>10.07.1991</age>
+    <entry>14.08.2017</entry>
+    <department>Logistics</department>
+    <phone>456</phone>
+  </employee>
+  <employee gender="female">
+    <id>15</id>
+    <firstname>Olivia</firstname>
+    <lastname>Garcia</lastname>
+    <age>29.05.1982</age>
+    <entry>23.04.2011</entry>
+    <department>Human Resources</department>
+    <phone>789</phone>
+  </employee>
+  <employee gender="male">
+    <id>16</id>
+    <firstname>Andrew</firstname>
+    <lastname>Turner</lastname>
+    <age>06.02.1979</age>
+    <entry>29.01.2010</entry>
+    <department>Public Relations</department>
+    <phone>654</phone>
+  </employee>
+  <employee gender="female">
+    <id>17</id>
+    <firstname>Isabella</firstname>
+    <lastname>Murphy</lastname>
+    <age>22.12.1976</age>
+    <entry>07.07.2009</entry>
+    <department>Supply Chain</department>
+    <phone>321</phone>
+  </employee>
+  <employee gender="male">
+    <id>18</id>
+    <firstname>Joshua</firstname>
+    <lastname>Adams</lastname>
+    <age>19.11.1988</age>
+    <entry>04.09.2018</entry>
+    <department>Information Technology</department>
+    <phone>987</phone>
+  </employee>
+  <employee gender="female">
+    <id>19</id>
+    <firstname>Ava</firstname>
+    <lastname>Baker</lastname>
+    <age>11.10.1977</age>
+    <entry>12.12.2008</entry>
+    <department>Procurement</department>
+    <phone>654</phone>
+  </employee>
+  <employee gender="male">
+    <id>20</id>
+    <firstname>Matthew</firstname>
+    <lastname>Scott</lastname>
+    <age>15.09.1983</age>
+    <entry>05.04.2007</entry>
+    <department>Finance</department>
+    <phone>321</phone>
+  </employee>
+</employees>
