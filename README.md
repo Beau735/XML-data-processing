@@ -37,5 +37,5 @@ Database Integration: In some cases, XML data can be directly imported into data
 XSL (Extensible Stylesheet Language) is often used in conjunction with XML to transform and present XML data. XSL allows you to define stylesheets that specify how XML data should be displayed or transformed into other formats, such as HTML.
 
 
-### Import in Excel
+### Import in Excel:
 ![Alt Text](images/Excel.png)
